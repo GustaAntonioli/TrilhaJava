@@ -1,6 +1,3 @@
-package estruturasCondicionais;
-
-
 
 public class ExemploArray {
     public static void main(String[] args) {

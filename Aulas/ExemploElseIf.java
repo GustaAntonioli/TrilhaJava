@@ -1,5 +1,5 @@
 
-package estruturasCondicionais;
+
 public class ExemploElseIf{
 
 public static void main(String[] args)  {

@@ -1,4 +1,3 @@
-package estruturasCondicionais;
 import java.util.concurrent.ThreadLocalRandom;
 public class ExemploWhile {
 
